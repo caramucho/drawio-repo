@@ -1,1 +1,86 @@
-<mxfile host="www.draw.io" modified="2019-12-03T03:53:09.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.5" etag="vlwKb8klOJHuyWMpuMsG" type="github" pages="1"><diagram id="mTFrQ1_z55DTdRyV_Tct">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T04:12:32.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9E5PrP8IIGBS96KQYIN-" version="12.3.5" type="github" pages="1">
+  <diagram id="mTFrQ1_z55DTdRyV_Tct" name="Page-1">
+    <mxGraphModel dx="1735" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="3xKM312rynrcHrKgX1cf-3" value="In this article, we present the concept of sentence fusion which, given a set of similar sentences, produces^&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="520" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-4" value="" style="curved=1;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xKM312rynrcHrKgX1cf-8" target="3xKM312rynrcHrKgX1cf-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-499" y="-40" as="sourcePoint"/>
+            <mxPoint x="-730" y="-40" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="-610" y="320"/>
+              <mxPoint x="-730" y="320"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-6" value="In" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-7" value="this" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-8" value="article" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-9" value="," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-10" value="we" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-11" value="present" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-12" value="the" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-13" value="concept" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-14" value="of" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-15" value="sentence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-16" value="fusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-17" value="which" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-18" value="," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-19" value="given" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-20" value="a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-21" value="set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-22" value="of" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-23" value="similar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-24" value="sentence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-25" value="," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3xKM312rynrcHrKgX1cf-26" value="produces" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="60" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
